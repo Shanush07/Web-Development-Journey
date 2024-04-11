@@ -1,0 +1,17 @@
+.container{
+    background-color: rgba(190, 71, 71, 0.447);
+    margin-top: 40px;
+}
+
+.container-fluid{
+    background-color: rgba(155, 2, 2, 0.447);
+    margin-top: 40px;
+}
+
+.alert-class{
+    padding: 20px;
+}
+
+.btn-group{
+    margin-left: 20px;
+}
