@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 140px);
+    grid-gap: 30px; 
+    justify-content: center ; 
+    margin: 30px;
+}
+
+button {
+    width: 140px;    
+    height: 140px;    
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+.but1 {
+    background-color: red;
+}
+
+.but2 {
+    background-color: greenyellow;
+}
+
+.but3 {
+    background-color: orange;
+}
+
+.but4 {
+    background-color: blue;
+}
+
+.flash{
+    background-color: whitesmoke;
+}
+
+.userFlash{
+    background-color: gray;
+}
